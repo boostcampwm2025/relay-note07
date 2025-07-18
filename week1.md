@@ -88,5 +88,37 @@ js나 kotlin 스럽게 코드를 작성하고 싶었는데, 여러 학습과 구
 - 유사한 체크 포인트를 분류하여 통계화한다
 
 
-
 # 퀘스트 수행 과정
+
+## 퀘스트 선정
+- **J143**: 
+- **J223**:
+- **J227**:
+- **K002**:
+- **J158**:
+
+## 퀘스트 수행
+<details>
+<summary>J143</summary>
+  
+</details>
+
+<details>
+<summary>J223</summary>
+  
+</details>
+
+<details>
+<summary>J227</summary>
+  
+</details>
+
+<details>
+<summary>K002</summary>
+  
+</details>
+
+<details>
+<summary>J158</summary>
+  
+</details>
