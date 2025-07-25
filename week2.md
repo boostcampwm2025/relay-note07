@@ -239,24 +239,8 @@
 마침 관련 내용으로 퀘스트가 나와, 나의 건강을 지키기 위해 선택하였다.
 
 </details>
-
-<br />
-
-### 퀘스트 수행
-
 <details>
-  <summary>J296</summary>
-
-... ... ...
-
-</details>
-
-## J132(백현영) 퀘스트 수행 과정
-
-### 퀘스트 선정
-
-<details>
-  <summary>J132 3. ai랑 릴레이 소설 쓰면서 문화생활하기.</summary>
+  <summary>J132 - 3. ai랑 릴레이 소설 쓰면서 문화생활하기.</summary>
 
   <br />
 
@@ -267,9 +251,14 @@
 
 </details>
 
-<br />
-
 ### 퀘스트 수행
+
+<details>
+  <summary>J296</summary>
+
+... ... ...
+
+</details>
 
 <details>
   <summary>J132</summary>
