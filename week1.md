@@ -421,6 +421,14 @@ AI 를 사용한 학습은 처음에 리서치 키워드를 도출하고 공부�
 
 - 미션 진행 중 휴식 시간에 진행하면 달성가능
 
+### 예시 프롬프트
+
+- 가벼운 목 허리 스트레칭 4컷만화로 하는방법 하나 그려줘
+
+### 출력 결과
+
+![img](https://private-user-images.githubusercontent.com/155948612/470651567-b20b71d8-a2bf-4bce-b826-ba98e66c794b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM0MjM4NjgsIm5iZiI6MTc1MzQyMzU2OCwicGF0aCI6Ii8xNTU5NDg2MTIvNDcwNjUxNTY3LWIyMGI3MWQ4LWEyYmYtNGJjZS1iODI2LWJhOThlNjZjNzk0Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyNVQwNjA2MDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NjdhYTBlMGY0ZWVhY2VlNTI5ZTg5MmU5NTY3OWIwZWJkMjBmNGIxZWJjNTZiZmE3ZjM4MGNiMTU3ZDk5NDllJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.up2lPsBV2jhdpM4CoAWfwuPpZ_2aEUIJfiOVrp0YFLA)
+
 ---
 
 ## 🔥 2. AI로 피어분들의 이름을 삼행시로 지어보기.
