@@ -306,7 +306,7 @@
   > 내가 무릎이 안좋아서 다리 근육을 강화하는 운동이나 스트레칭을 해야 해.<br />
   > 가볍게 무릎 혹은 다리 스트레칭을 하는 방법을 4컷만화로 하나 그려줘
 
-<img width="50%" alt="image" src="https://gist.github.com/user-attachments/assets/9e79e327-690f-48c3-9795-aa859e480cc1" />
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/96bb1ce5-4efb-4c25-b728-e6754cf21d5d" />
 
 이전에 재활운동으로 다리 스트레칭을 많이 했었는데, 그림의 동작을 실제로 했었습니다.
 뭉친 근육을 풀면서 골반 정렬과 무릎 주변의 근육 밸런스를 개선해줍니다.
