@@ -293,6 +293,8 @@ blob SHA → 파일 내용 읽기
     - Day12 → Day15에 적용 / Day14 → Day16에 적용 / Day16 → Day 17에 적용
     - 이 경험을 통해 AI가 어떤 면에서 잘하는지, 못하는지 직접 느끼며 AI를 알아가보자
   - 예시
+  - 
+<img width="403" height="754" alt="image" src="https://github.com/user-attachments/assets/fad9fde5-c1fb-4c0c-be68-9db80b707db1" />
 
   - 예상 결과
     - 추후 미션에 적용해보면서 AI는 어떤 능력이 좋고 나쁜지 느낀점 작성하면 됨
